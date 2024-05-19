@@ -1,6 +1,7 @@
 # golem-octave
 Running Octave on the Golem Network
 ## Prepare the golem image
+Create the image as detailed in the [golem documentation](https://docs.golem.network/docs/creators/javascript/tutorials/building-custom-image).
 ...
 ## Upload the golem image
 ...
