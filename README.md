@@ -1,8 +1,7 @@
 # golem-octave
 Running Octave on the Golem Network
 ## Prepare the golem image
-Create the image as detailed in the [golem documentation](https://docs.golem.network/docs/creators/javascript/tutorials/building-custom-image).
-...
+Create the image as detailed in the [golem documentation](https://docs.golem.network/docs/creators/javascript/tutorials/building-custom-image) using the provided Dockerfile.
 ## Upload the golem image
 ...
 ## Example parallel computing on individual nodes
