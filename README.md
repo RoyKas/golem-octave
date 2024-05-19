@@ -1,12 +1,14 @@
 # golem-octave
 Running Octave on the Golem Network
-## prepare the golem image
+## Prepare the golem image
 ...
-## upload the golem image
+## Upload the golem image
 ...
-## example parallel computing on individual nodes
+## Example parallel computing on individual nodes
 Tasks are parallelized in the Golem-js script and executed as individual octave scripts on the octave nodes.
 ...
-## example parallel computing on multiple nodes
+## Set-up cluster of octave nodes
+...
+## Example parallel computing on multiple nodes
 Tasks are parallelized and distributed over the nodes by the octave script.
 ...
